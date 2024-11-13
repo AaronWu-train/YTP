@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.mcg": "json",
+        "ios": "cpp",
+        "iostream": "cpp"
+    }
+}
